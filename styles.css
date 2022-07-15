@@ -1,0 +1,47 @@
+body{
+    background-color: #4d59fb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.wrapper{
+    background-color: aliceblue;
+    width: 450px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+*{
+    padding: 0px;
+    margin-left: 10px;
+    
+    
+}
+
+input[type="text"]::placeholder {  
+     padding-left: 20px; 
+} 
+.info-text{
+    margin-left: 10px;
+}
+
+.meaning p{
+    margin-left:1px;
+}
+.meaning span{
+    margin-left: 100px;
+}
+
+
+.meaning span{
+    margin-left: 0px;
+
+}
+
+
+
